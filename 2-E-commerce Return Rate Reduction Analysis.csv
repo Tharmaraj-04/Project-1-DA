@@ -1,0 +1,11 @@
+Order ID,Customer ID,Product Category,Region,Marketing Channel,Order Date,Return Date,Return Reason,Returned
+1001,C001,Electronics,North,Email,2024-07-01,2024-07-10,Defective,Yes
+1002,C002,Clothing,South,Social Media,2024-07-02,,Too Small,No
+1003,C003,Home Decor,West,Search Engine,2024-07-03,2024-07-15,Not as Described,Yes
+1004,C004,Clothing,East,Affiliate,2024-07-04,2024-07-12,Too Large,Yes
+1005,C005,Sports,North,Email,2024-07-05,,Changed Mind,No
+1006,C006,Electronics,West,Social Media,2024-07-06,2024-07-20,Defective,Yes
+1007,C007,Home Decor,South,Search Engine,2024-07-07,,Not as Described,No
+1008,C008,Clothing,North,Email,2024-07-08,2024-07-18,Poor Quality,Yes
+1009,C009,Sports,East,Social Media,2024-07-09,,Changed Mind,No
+1010,C010,Electronics,South,Affiliate,2024-07-10,2024-07-22,Wrong Item Sent,Yes
